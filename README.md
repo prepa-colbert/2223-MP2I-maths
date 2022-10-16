@@ -1,2 +1,8 @@
-# 2223-MP2I-maths
-Documents pour le cours de maths MP2I 2022/2023
+# Maths MP2I 2022/2023
+
+## Chapitre 1 : Corps des nombres réels
+
+## Chapitre 2 : Nombres entiers, itérations
+
+## Chapitre 3 : Arithmétique dans l'anneau (ℤ,+,⋅)
+
