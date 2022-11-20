@@ -24,4 +24,6 @@
 
 ## Chapitre 12 : Dénombrement
 
+## Chapitre 13 : Borne supérieure dans ℝ
+
 
