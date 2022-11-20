@@ -12,4 +12,6 @@
 
 ## Chapitre 6 : Fonctions logarithmes, exponentielles, puissances
 
-## Chapitre 7 :
+## Chapitre 7 : Fonctions circulaires
+
+## Chapitre 8 : Nombres complexes
