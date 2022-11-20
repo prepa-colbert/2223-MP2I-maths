@@ -20,3 +20,4 @@
 
 ## Chapitre 10 : Vocabulaire relatif aux applications
 
+## Chapitre 11 : Relations binaires sur un ensemble
