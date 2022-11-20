@@ -15,3 +15,7 @@
 ## Chapitre 7 : Fonctions circulaires
 
 ## Chapitre 8 : Nombres complexes
+
+## Chapitre 9 : La logique des logiciens
+
+
