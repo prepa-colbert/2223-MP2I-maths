@@ -27,3 +27,7 @@
 ## Chapitre 13 : Borne supérieure dans ℝ
 
 ## Chapitre 14 : Suites de nombres réels et complexes
+
+## Chapitre 15 : Suites récurrentes
+
+## Chapitre 16 : Relations de comparaison sur les suites
