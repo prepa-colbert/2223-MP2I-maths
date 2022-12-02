@@ -48,5 +48,9 @@ TIRTL : Étude d’une suite définie implicitement
 
 ## Chapitre 18 : Équations différentielles linéaires scalaires à coefficients constants
 
+TIRTL : Deux méthodes pour la résolution d’une équation différentielle
 
+## Chapitre 19 :
+
+## Chapitre 20 :
 
