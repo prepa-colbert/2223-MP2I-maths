@@ -50,7 +50,16 @@ TIRTL : Étude d’une suite définie implicitement
 
 TIRTL : Deux méthodes pour la résolution d’une équation différentielle
 
-## Chapitre 19 :
+## Chapitre 19 : Calcul matriciel élémentaire
 
-## Chapitre 20 :
+TIRTL : Calcul des puissances d'une matrice et applications aux suites récurrentes.
+
+## Chapitre 20 : Groupes
+
+## Chapitre 21 : Anneaux, corps.
+
+## Chapitre 22 : Systèmes d'équations linéaires
+
+## Chapitre 23 : Matrice inversibles, rang
+
 
