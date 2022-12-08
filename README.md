@@ -54,12 +54,17 @@ TIRTL : Deux méthodes pour la résolution d’une équation différentielle
 
 TIRTL : Calcul des puissances d'une matrice et applications aux suites récurrentes.
 
-## Chapitre 20 : Groupes
+## Chapitre 20 : Structures algébriques fondamentales
 
-## Chapitre 21 : Anneaux, corps.
+## Chapitre 21 : Systèmes d'équations linéaires
 
-## Chapitre 22 : Systèmes d'équations linéaires
+## Chapitre 22 : Matrice inversibles, rang
 
-## Chapitre 23 : Matrice inversibles, rang
-
+## Chapitre 23 : 
+## Chapitre 24 : 
+## Chapitre 25 : 
+## Chapitre 26 : 
+## Chapitre 27 : 
+## Chapitre 28 : 
+## Chapitre 29 : 
 
