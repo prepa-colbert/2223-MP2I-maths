@@ -54,6 +54,8 @@ TIRTL : Deux méthodes pour la résolution d’une équation différentielle
 
 TIRTL : Calcul des puissances d'une matrice et applications aux suites récurrentes.
 
+TIRTL : Deux circuits RLC.
+
 ## Chapitre 20 : Structures algébriques fondamentales
 
 ## Chapitre 21 : Systèmes d'équations linéaires
