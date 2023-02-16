@@ -70,11 +70,15 @@ TIRTL : Deux circuits RLC.
 
 ## Chapitre 26 : Limite, continuité
 
+TITRL : Une équation fonctionnelle
+
 ## Chapitre 27 : Relations de comparaisons sur les fonctions
 
 ## Chapitre 28 : Dérivées
 
 ## Chapitre 29 : Développements limités
+
+Cahier de vacances : quelques développements limités pour s'entrainer.
 
 ## Chapitre 30 : Convexité
 
