@@ -62,11 +62,34 @@ TIRTL : Deux circuits RLC.
 
 ## Chapitre 22 : Matrice inversibles, rang
 
-## Chapitre 23 : 
-## Chapitre 24 : 
-## Chapitre 25 : 
-## Chapitre 26 : 
-## Chapitre 27 : 
-## Chapitre 28 : 
-## Chapitre 29 : 
+## Chapitre 23 : Polynômes
+
+## Chapitre 24 : Espaces vectoriels
+
+## Chapitre 25 : Applications linéaires
+
+## Chapitre 26 : Limite, continuité
+
+## Chapitre 27 : Relations de comparaisons sur les fonctions
+
+## Chapitre 28 : Dérivées
+
+## Chapitre 29 : Développements limités
+
+## Chapitre 30 : Convexité
+
+## Chapitre 31 : Familles de vecteurs
+
+## Chapitre 32 : Dimension
+
+## Chapitre 33 : Applications linéaires et dimension
+
+## Chapitre 34 : Sommes et projecteurs
+
+## Chapitre 35 : Espace probabilisé fini
+
+## Chapitre 36 : Variables aléatoires sur un univers fini
+
+## Chapitre 37 : Couples de variables aléatoires finies
+
 
