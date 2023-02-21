@@ -96,4 +96,30 @@ Cahier de vacances : quelques développements limités pour s'entrainer.
 
 ## Chapitre 37 : Couples de variables aléatoires finies
 
+## Chapitre 38 : Fractions Rationnelles
+
+## Chapitre 39 : Intégrale de Riemann sur un segment des fonctions à valeurs réelles
+
+## Chapitre 40 : Séries numériques
+
+## Chapitre 41 : Groupe symétrique
+
+## Chapitre 42 : Représentation matricielle en algèbre linéaire
+
+## Chapitre 43 : Déterminants
+
+## Chapitre 44 : Diagonalisation
+
+## Chapitre 45 : Applications de la diagonalisation
+
+## Chapitre 46 : Fonctions de deux variables réelles, limite, continuité
+
+## Chapitre 47 : Calcul différentiel
+
+## Chapitre 48 : Espaces préhilbertiens réels
+
+## Chapitre 49 : Espaces euclidiens
+
+## Chapitre 50 : Familles sommables
+
 
