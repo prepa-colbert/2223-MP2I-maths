@@ -86,9 +86,9 @@ Cahier de vacances : quelques développements limités pour s'entrainer.
 
 ## Chapitre 32 : Dimension
 
-## Chapitre 33 : Applications linéaires et dimension
+## Chapitre 33 : Sommes et projecteurs
 
-## Chapitre 34 : Sommes et projecteurs
+## Chapitre 34 : Applications linéaires et dimension
 
 ## Chapitre 35 : Espace probabilisé fini
 
